@@ -3,48 +3,48 @@
         "id":1,
         "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
         "name": "Chef John Smith",
-        "yearsOfExperience": 20,
-        "numberOfRecipes": 100,
-        "likes": 5000
+        "yearsOfExperience": 8,
+        "numberOfRecipes": "300+",
+        "likes": 5000000
     },
     {
         "id":2,
         "picture": "https://d2j6dbq0eux0bg.cloudfront.net/images/67036782/3169978968.jpg",
         "name": "Chef Jane Lee",
-        "yearsOfExperience": 10,
-        "numberOfRecipes": 50,
-        "likes": 2000
+        "yearsOfExperience": 7,
+        "numberOfRecipes": "200+",
+        "likes": 2000000
     },
     {
         "id":3,
         "picture": "https://thumbs.dreamstime.com/b/female-chef-holding-plate-prepared-pasta-kitchen-female-chef-holding-plate-prepared-pasta-kitchen-hotel-135827202.jpg",
         "name": "Chef David Chen",
-        "yearsOfExperience": 15,
-        "numberOfRecipes": 75,
-        "likes": 3500
+        "yearsOfExperience": 9,
+        "numberOfRecipes": "700+",
+        "likes": 350000
     },
     {
         "id":4,
         "picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
         "name": "Chef Amy Wang",
-        "yearsOfExperience": 5,
-        "numberOfRecipes": 25,
-        "likes": 1000
+        "yearsOfExperience": 8,
+        "numberOfRecipes": "500+",
+        "likes": 1000000
     },
     {
         "id":5,
         "picture": "https://levogue.leadership.ng/wp-content/uploads/2022/09/chef_musepCfBGeOtjfrq1.jpg",
         "name": "Chef Michael Zhang",
         "yearsOfExperience": 12,
-        "numberOfRecipes": 60,
-        "likes": 2500
+        "numberOfRecipes": "600+",
+        "likes": 2500000
     },
     {
         "id":6,
         "picture": "https://imgix.ranker.com/list_img_v2/17013/2717013/original/most-influential-chefs-of-all-time?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=198&w=350",
         "name": "Chef Emily Liu",
-        "yearsOfExperience": 8,
-        "numberOfRecipes": 40,
-        "likes": 1500
+        "yearsOfExperience": 20,
+        "numberOfRecipes": "400+",
+        "likes": 1500000
     }
 ]

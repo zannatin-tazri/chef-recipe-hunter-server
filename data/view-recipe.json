@@ -11,7 +11,7 @@
       "recipes": [
         {
           "name": "Kung Pao Chicken",
-          "photo": "kung_pao_chicken.jpg",
+          "photo": "https://thewoksoflife.com/wp-content/uploads/2019/04/kung-pao-chicken-11.jpg",
           "ingredients": [
             "chicken breast",
             "dried red chili peppers",
@@ -27,7 +27,7 @@
         },
         {
           "name": "Egg Drop Soup",
-          "photo": "egg_drop_soup.jpg",
+          "photo": "https://thewoksoflife.com/wp-content/uploads/2019/05/egg-drop-soup-4.jpg",
           "ingredients": [
             "chicken broth",
             "eggs",
@@ -40,7 +40,7 @@
         },
         {
           "name": "Steamed Pork Buns",
-          "photo": "steamed_pork_buns.jpg",
+          "photo": "https://www.recipetineats.com/wp-content/uploads/2018/06/Chinese-BBQ-Pork-Buns_9.jpg",
           "ingredients": [
             "pork",
             "flour",
@@ -66,7 +66,7 @@
       "recipes": [
         {
           "name": "Shrimp Dumplings",
-          "photo": "shrimp_dumplings.jpg",
+          "photo": "https://www.koreanbapsang.com/wp-content/uploads/2013/02/DSC6659-2.jpg",
           "ingredients": [
             "shrimp",
             "flour",
@@ -81,7 +81,7 @@
         },
         {
           "name": "Pork and Shrimp Siu Mai",
-          "photo": "siu_mai.jpg",
+          "photo": "https://redhousespice.com/wp-content/uploads/2022/11/Chinese-siu-mai-dumplings-scaled.jpg",
           "ingredients": [
             "ground pork",
             "shrimp",
@@ -91,6 +91,22 @@
             "soy sauce",
             "sugar",
             "white pepper"]
+          },
+          {
+            "name": "Kung Pao Chicken",
+            "photo": "https://thewoksoflife.com/wp-content/uploads/2019/04/kung-pao-chicken-11.jpg",
+            "ingredients": [
+              "chicken breast",
+              "dried red chili peppers",
+              "roasted peanuts",
+              "soy sauce",
+              "sugar",
+              "cornstarch",
+              "vinegar",
+              "sesame oil",
+              "green onions"
+            ],
+            "method": "1. Cut chicken into small cubes and marinate with soy sauce and cornstarch. 2. Stir-fry chicken, dried chili peppers, and peanuts in a wok until chicken is cooked. 3. Add sugar, vinegar, and sesame oil. 4. Garnish with chopped green onions."
           }
         ]
     },
@@ -106,7 +122,7 @@
         "recipes": [
           {
             "name": "Kung Pao Chicken",
-            "photo": "kung_pao_chicken.jpg",
+            "photo": "https://thewoksoflife.com/wp-content/uploads/2019/04/kung-pao-chicken-11.jpg",
             "ingredients": [
               "chicken breast",
               "dried red chili peppers",
@@ -122,7 +138,7 @@
           },
           {
             "name": "Egg Drop Soup",
-            "photo": "egg_drop_soup.jpg",
+            "photo": "https://thewoksoflife.com/wp-content/uploads/2019/05/egg-drop-soup-4.jpg",
             "ingredients": [
               "chicken broth",
               "eggs",
@@ -135,7 +151,7 @@
           },
           {
             "name": "Steamed Pork Buns",
-            "photo": "steamed_pork_buns.jpg",
+            "photo": "https://www.recipetineats.com/wp-content/uploads/2018/06/Chinese-BBQ-Pork-Buns_9.jpg",
             "ingredients": [
               "pork",
               "flour",
@@ -156,52 +172,40 @@
         "yearsOfExperience": 8,
         "numberOfRecipes": "500+",
         "likes": 1000000,
-        "title": "Dim Sum Chef",
-        "description": "Jin Li is a dim sum chef at Dynasty Seafood Restaurant. He has been making dim sum for over 30 years.",
-        "recipes": [
-          {
-            "name": "Shrimp Dumplings",
-            "photo": "shrimp_dumplings.jpg",
-            "ingredients": [
-              "shrimp",
-              "flour",
-              "cornstarch",
-              "bamboo shoots",
-              "sesame oil",
-              "soy sauce",
-              "sugar",
-              "white pepper"
-            ],
-            "method": "1. Mix flour and cornstarch to make dough. 2. Make filling with chopped shrimp, bamboo shoots, sesame oil, soy sauce, sugar, and white pepper. 3. Roll out dough and wrap around the filling. 4. Steam dumplings for 8-10 minutes."
+      "title": "Dim Sum Chef",
+      "description": "Jin Li is a dim sum chef at Dynasty Seafood Restaurant. He has been making dim sum for over 30 years.",
+      "recipes": [
+        {
+          "name": "Shrimp Dumplings",
+          "photo": "https://www.koreanbapsang.com/wp-content/uploads/2013/02/DSC6659-2.jpg",
+          "ingredients": [
+            "shrimp",
+            "flour",
+            "cornstarch",
+            "bamboo shoots",
+            "sesame oil",
+            "soy sauce",
+            "sugar",
+            "white pepper"
+          ],
+          "method": "1. Mix flour and cornstarch to make dough. 2. Make filling with chopped shrimp, bamboo shoots, sesame oil, soy sauce, sugar, and white pepper. 3. Roll out dough and wrap around the filling. 4. Steam dumplings for 8-10 minutes."
+        },
+        {
+          "name": "Pork and Shrimp Siu Mai",
+          "photo": "https://redhousespice.com/wp-content/uploads/2022/11/Chinese-siu-mai-dumplings-scaled.jpg",
+          "ingredients": [
+            "ground pork",
+            "shrimp",
+            "water chestnuts",
+            "soy sauce",
+            "sesame oil",
+            "soy sauce",
+            "sugar",
+            "white pepper"]
           },
           {
-            "name": "Pork and Shrimp Siu Mai",
-            "photo": "siu_mai.jpg",
-            "ingredients": [
-              "ground pork",
-              "shrimp",
-              "water chestnuts",
-              "soy sauce",
-              "sesame oil",
-              "soy sauce",
-              "sugar",
-              "white pepper"]
-            }
-          ]
-      },
-      {
-        "id":5,
-        "picture": "https://levogue.leadership.ng/wp-content/uploads/2022/09/chef_musepCfBGeOtjfrq1.jpg",
-        "name": "Chef Michael Zhang",
-        "yearsOfExperience": 12,
-        "numberOfRecipes": "600+",
-        "likes": 2500000,
-        "title": "Head Chef",
-        "description": "Lee Chang is the head chef at Golden Dragon Restaurant. He has over 20 years of experience in Chinese cuisine.",
-        "recipes": [
-          {
             "name": "Kung Pao Chicken",
-            "photo": "kung_pao_chicken.jpg",
+            "photo": "https://thewoksoflife.com/wp-content/uploads/2019/04/kung-pao-chicken-11.jpg",
             "ingredients": [
               "chicken breast",
               "dried red chili peppers",
@@ -214,91 +218,118 @@
               "green onions"
             ],
             "method": "1. Cut chicken into small cubes and marinate with soy sauce and cornstarch. 2. Stir-fry chicken, dried chili peppers, and peanuts in a wok until chicken is cooked. 3. Add sugar, vinegar, and sesame oil. 4. Garnish with chopped green onions."
-          },
-          {
-            "name": "Egg Drop Soup",
-            "photo": "egg_drop_soup.jpg",
-            "ingredients": [
-              "chicken broth",
-              "eggs",
-              "cornstarch",
-              "salt",
-              "pepper",
-              "green onions"
-            ],
-            "method": "1. Heat chicken broth in a pot. 2. Beat eggs and cornstarch together. 3. Slowly pour egg mixture into the hot broth while stirring. 4. Season with salt and pepper. 5. Garnish with chopped green onions."
-          },
-          {
-            "name": "Steamed Pork Buns",
-            "photo": "steamed_pork_buns.jpg",
-            "ingredients": [
-              "pork",
-              "flour",
-              "yeast",
-              "sugar",
-              "soy sauce",
-              "green onions",
-              "sesame oil"
-            ],
-            "method": "1. Mix flour, yeast, and sugar to make dough. 2. Make filling with ground pork, soy sauce, chopped green onions, and sesame oil. 3. Roll out dough and wrap around the filling. 4. Steam buns in a bamboo steamer for 10-12 minutes."
           }
         ]
-      },
-      {
+    },
+    { "id":5,
+    "picture": "https://levogue.leadership.ng/wp-content/uploads/2022/09/chef_musepCfBGeOtjfrq1.jpg",
+    "name": "Chef Michael Zhang",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": "600+",
+    "likes": 2500000,
+      "title": "Head Chef",
+      "description": "Lee Chang is the head chef at Golden Dragon Restaurant. He has over 20 years of experience in Chinese cuisine.",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "photo": "https://thewoksoflife.com/wp-content/uploads/2019/04/kung-pao-chicken-11.jpg",
+          "ingredients": [
+            "chicken breast",
+            "dried red chili peppers",
+            "roasted peanuts",
+            "soy sauce",
+            "sugar",
+            "cornstarch",
+            "vinegar",
+            "sesame oil",
+            "green onions"
+          ],
+          "method": "1. Cut chicken into small cubes and marinate with soy sauce and cornstarch. 2. Stir-fry chicken, dried chili peppers, and peanuts in a wok until chicken is cooked. 3. Add sugar, vinegar, and sesame oil. 4. Garnish with chopped green onions."
+        },
+        {
+          "name": "Egg Drop Soup",
+          "photo": "https://thewoksoflife.com/wp-content/uploads/2019/05/egg-drop-soup-4.jpg",
+          "ingredients": [
+            "chicken broth",
+            "eggs",
+            "cornstarch",
+            "salt",
+            "pepper",
+            "green onions"
+          ],
+          "method": "1. Heat chicken broth in a pot. 2. Beat eggs and cornstarch together. 3. Slowly pour egg mixture into the hot broth while stirring. 4. Season with salt and pepper. 5. Garnish with chopped green onions."
+        },
+        {
+          "name": "Steamed Pork Buns",
+          "photo": "https://www.recipetineats.com/wp-content/uploads/2018/06/Chinese-BBQ-Pork-Buns_9.jpg",
+          "ingredients": [
+            "pork",
+            "flour",
+            "yeast",
+            "sugar",
+            "soy sauce",
+            "green onions",
+            "sesame oil"
+          ],
+          "method": "1. Mix flour, yeast, and sugar to make dough. 2. Make filling with ground pork, soy sauce, chopped green onions, and sesame oil. 3. Roll out dough and wrap around the filling. 4. Steam buns in a bamboo steamer for 10-12 minutes."
+        }
+      ]
+    },
+    {
         "id":6,
         "picture": "https://imgix.ranker.com/list_img_v2/17013/2717013/original/most-influential-chefs-of-all-time?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&crop=faces&h=198&w=350",
         "name": "Chef Emily Liu",
         "yearsOfExperience": 20,
         "numberOfRecipes": "400+",
         "likes": 1500000,
-        "title": "Head Chef",
-        "description": "Lee Chang is the head chef at Golden Dragon Restaurant. He has over 20 years of experience in Chinese cuisine.",
-        "recipes": [
-          {
-            "name": "Kung Pao Chicken",
-            "photo": "kung_pao_chicken.jpg",
-            "ingredients": [
-              "chicken breast",
-              "dried red chili peppers",
-              "roasted peanuts",
-              "soy sauce",
-              "sugar",
-              "cornstarch",
-              "vinegar",
-              "sesame oil",
-              "green onions"
-            ],
-            "method": "1. Cut chicken into small cubes and marinate with soy sauce and cornstarch. 2. Stir-fry chicken, dried chili peppers, and peanuts in a wok until chicken is cooked. 3. Add sugar, vinegar, and sesame oil. 4. Garnish with chopped green onions."
-          },
-          {
-            "name": "Egg Drop Soup",
-            "photo": "egg_drop_soup.jpg",
-            "ingredients": [
-              "chicken broth",
-              "eggs",
-              "cornstarch",
-              "salt",
-              "pepper",
-              "green onions"
-            ],
-            "method": "1. Heat chicken broth in a pot. 2. Beat eggs and cornstarch together. 3. Slowly pour egg mixture into the hot broth while stirring. 4. Season with salt and pepper. 5. Garnish with chopped green onions."
-          },
-          {
-            "name": "Steamed Pork Buns",
-            "photo": "steamed_pork_buns.jpg",
-            "ingredients": [
-              "pork",
-              "flour",
-              "yeast",
-              "sugar",
-              "soy sauce",
-              "green onions",
-              "sesame oil"
-            ],
-            "method": "1. Mix flour, yeast, and sugar to make dough. 2. Make filling with ground pork, soy sauce, chopped green onions, and sesame oil. 3. Roll out dough and wrap around the filling. 4. Steam buns in a bamboo steamer for 10-12 minutes."
-          }
-        ]
-      }
+      "title": "Head Chef",
+      "description": "Lee Chang is the head chef at Golden Dragon Restaurant. He has over 20 years of experience in Chinese cuisine.",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "photo": "https://thewoksoflife.com/wp-content/uploads/2019/04/kung-pao-chicken-11.jpg",
+          "ingredients": [
+            "chicken breast",
+            "dried red chili peppers",
+            "roasted peanuts",
+            "soy sauce",
+            "sugar",
+            "cornstarch",
+            "vinegar",
+            "sesame oil",
+            "green onions"
+          ],
+          "method": "1. Cut chicken into small cubes and marinate with soy sauce and cornstarch. 2. Stir-fry chicken, dried chili peppers, and peanuts in a wok until chicken is cooked. 3. Add sugar, vinegar, and sesame oil. 4. Garnish with chopped green onions."
+        },
+        {
+          "name": "Egg Drop Soup",
+          "photo": "https://thewoksoflife.com/wp-content/uploads/2019/05/egg-drop-soup-4.jpg",
+          "ingredients": [
+            "chicken broth",
+            "eggs",
+            "cornstarch",
+            "salt",
+            "pepper",
+            "green onions"
+          ],
+          "method": "1. Heat chicken broth in a pot. 2. Beat eggs and cornstarch together. 3. Slowly pour egg mixture into the hot broth while stirring. 4. Season with salt and pepper. 5. Garnish with chopped green onions."
+        },
+        {
+          "name": "Steamed Pork Buns",
+          "photo": "https://www.recipetineats.com/wp-content/uploads/2018/06/Chinese-BBQ-Pork-Buns_9.jpg",
+          "ingredients": [
+            "pork",
+            "flour",
+            "yeast",
+            "sugar",
+            "soy sauce",
+            "green onions",
+            "sesame oil"
+          ],
+          "method": "1. Mix flour, yeast, and sugar to make dough. 2. Make filling with ground pork, soy sauce, chopped green onions, and sesame oil. 3. Roll out dough and wrap around the filling. 4. Steam buns in a bamboo steamer for 10-12 minutes."
+        }
+      ]
+    }
       
 ]
   

@@ -3,6 +3,12 @@ const app=express();
 const cors= require('cors');
 const port= process.env.PORT || 5000;
 
+const detailsRecipeData=require('./data/view-recipe.json');
+app.use(cors());
+app.get('/recipeDetails', (req,res)=>{
+    res.send(detailsRecipeData);
+})
+
 const chefs=require('./data/chef-data.json');
 app.use(cors());
 

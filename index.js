@@ -5,7 +5,7 @@ const port= process.env.PORT || 5000;
 
 const detailsRecipeData=require('./data/view-recipe.json');
 app.use(cors());
-app.get('/recipeDetails', (req,res)=>{
+app.get('/view-recipes', (req,res)=>{
     res.send(detailsRecipeData);
 })
 
